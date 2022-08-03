@@ -1,0 +1,78 @@
+header {
+    border: 2px solid black;
+
+    background-color: #99a;
+
+    text-align: center;
+}
+
+
+header h1 {}
+
+body {
+    background-color: #FFFDDD
+}
+
+nav ul {
+    align-items: center;
+
+    display: inline-block;
+
+    margin-left: 0px;
+    padding-left: 0px;
+
+}
+
+nav li {
+    display: inline-block;
+
+    align-items: center;
+
+    font-weight: bold;
+    font-size: large;
+
+    margin-left: 3px;
+    margin-right: 3px;
+
+}
+
+.cardtype1 h2 {
+    display: inline-block;
+
+}
+
+.cardtype1 img {
+    display: inline-block;
+
+}
+
+.cardtype2 {
+
+    border: 2px solid black;
+
+    display: inline-block;
+
+    width: 30%;
+
+    align-items: center;
+
+    text-align: center;
+}
+
+.cardtype2 img {
+
+    height: 350px;
+
+}
+
+footer {
+
+    text-align: center;
+}
+
+/*
+section {
+
+    align-items: center;
+}
+*/
