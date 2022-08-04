@@ -1,4 +1,4 @@
-// ***Ignore this, testing zone for leftover code***
+// ***TESTING ZONE FOR LEFT OVER CODE***
 
 // import {Modal} from "@daypilot/modal";
 // DayPilot.Modal.confirm("Really, is that what you're going with?", { okText: "Yes", cancelText: "No" });
@@ -13,3 +13,5 @@ if (secondary_choice) {
     alert ("Wise choice of a champion!");
     <script src="prompt1.js"></script> 
 }
+
+// ***END OF TESTING ZONE***
