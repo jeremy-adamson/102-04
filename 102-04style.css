@@ -6,9 +6,6 @@ header {
     text-align: center;
 }
 
-
-header h1 {}
-
 body {
     background-color: #FFFDDD
 }
@@ -36,13 +33,33 @@ nav li {
 
 }
 
+.cardtype1 {
+
+    position: relative;
+
+}
+
 .cardtype1 h2 {
+
+    align-items: center;
     display: inline-block;
+    vertical-align: middle;
 
 }
 
 .cardtype1 img {
+
     display: inline-block;
+/*
+    float: right; */
+    clear: right;
+    margin-left: 20px;
+
+}
+
+.cardtype1 p {
+
+    text-align: center;
 
 }
 
